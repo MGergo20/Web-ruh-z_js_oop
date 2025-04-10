@@ -1,11 +1,17 @@
-class Termekek {
-  constructor() {
-    this.termekLista = [];
+import Termek from "./Termek.js";
+
+export default class Termekek {
+  constructor(termekLista) {
+    this.termekLista = termekLista;
     this.kosarLista = [];
+    this.megjelenit();
   }
 
   megjelenit() {
-    // Termékek listájának megjelenítése
+    for (let index = 0; index < this.termekLista.length; index++) {
+      const elem = this.termekLista[index];
+      new Termek(index, elem);
+    }
   }
 
   keresesNevSzerint(nev) {
