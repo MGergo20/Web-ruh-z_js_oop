@@ -6,10 +6,10 @@ Ez az egyoldalas (Single Page) webáruház egy egyszerű terméklistát és kos�
 
 - **Tóth Barnabás**:  
   - Üzleti logika tervezés  
-  - Kosár és kosár elemek (Cart.js, CartItem.js) implementációja
+  - Kosár és kosár elemek  implementációja
 
 - **Nagy Dominik**:  
-  - Terméklista és termék objektumok (ProductList.js, Product.js) megvalósítása  
+  - Terméklista és termék objektumok  megvalósítása  
   
 
 - **Medgyaszay Gergő**:
