@@ -55,7 +55,7 @@ export const termekLista = [ {
 }, 
 {
     id: 10,
-    nev: 'Mini Dron',
+    nev: 'NEM ELADÓ!',
     ar: 15000,
     kep: "eger.jpg",
 }, 
