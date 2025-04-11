@@ -2,49 +2,64 @@ export const termekLista = [ {
     id: 1,
     nev: 'Apple AirPods 2',
     ar: 114290, 
-    kep: 'kepek/airpods.png',
+    kep: "airpods.png",
 }, 
 {
     id: 2,
     nev: 'Xiaomi Mi Watch, Amazfit',
     ar: 39990,
-    kep: 'kepek/huawei.png'
+    kep: "huawei.png"
 }, 
 {
     id: 3,
     nev: 'Háttérvilágítás TV-hez',
     ar: 15000,
-    kep: 'kepek/led.png',
+    kep: "led.png",
 }, 
 {
     id: 4,
-    nev: 'Mini dron',
-    ar: 50000,
-    kep: 'kepek/dron.jfif'
+    nev: 'Mini Dron',
+    ar: 15000,
+    kep: "minidrone.jpg",
 }, 
+
+{
     id: 5,
-    nev: 'Apple AirPods 2',
+    nev: 'NEM ELADÓ!',
     ar: 114290, 
-    kep: 'kepek/airpods.png',
+    kep: "eger.jpg",
 }, 
 {
     id: 6,
-    nev: 'Xiaomi Mi Watch, Amazfit',
+    nev: 'Apple AirPods 2',
     ar: 39990,
-    kep: 'kepek/huawei.png'
+    kep: "airpods.png"
 }, 
 {
     id: 7,
-    nev: 'Háttérvilágítás TV-hez',
-    ar: 15000,
-    kep: 'kepek/led.png',
-}, 
+    nev: 'Xiaomi Mi Watch, Amazfit',
+    ar: 39990,
+    kep: "huawei.png"
+},
 {
     id: 8,
-    nev: 'Mini dron',
-    ar: 50000,
-    kep: 'kepek/dron.jfif'
+    nev: 'Háttérvilágítás TV-hez',
+    ar: 15000,
+    kep: "led.png",
 }, 
+{
+    id: 9,
+    nev: 'Mini Dron',
+    ar: 15000,
+    kep: "minidrone.jpg",
+}, 
+{
+    id: 10,
+    nev: 'Mini Dron',
+    ar: 15000,
+    kep: "eger.jpg",
+}, 
+
 ]
 
 
