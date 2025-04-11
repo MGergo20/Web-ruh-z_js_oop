@@ -1,4 +1,4 @@
-export const termekLista = [ {
+export const TermekLista = [ {
     id: 1,
     nev: 'Apple AirPods 2',
     ar: 114290, 
