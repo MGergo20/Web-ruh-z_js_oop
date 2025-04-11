@@ -4,3 +4,4 @@ Ez az egyoldalas (Single Page) webáruház egy egyszerű terméklistát és kos�
 
 
 
+![WebshopUML](https://github.com/user-attachments/assets/918accb5-9638-40af-a57c-78da98e72dd7)
