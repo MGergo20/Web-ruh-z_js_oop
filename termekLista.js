@@ -19,20 +19,20 @@ export const termekLista = [ {
 {
     id: 4,
     nev: 'Mini Dron',
-    ar: 15000,
+    ar: 70000,
     kep: "minidrone.jpg",
 }, 
 
 {
     id: 5,
     nev: 'NEM ELADÓ!',
-    ar: 114290, 
+    ar: 0, 
     kep: "eger.jpg",
 }, 
 {
     id: 6,
     nev: 'Apple AirPods 2',
-    ar: 39990,
+    ar: 114290,
     kep: "airpods.png"
 }, 
 {
@@ -50,13 +50,13 @@ export const termekLista = [ {
 {
     id: 9,
     nev: 'Mini Dron',
-    ar: 15000,
+    ar: 70000,
     kep: "minidrone.jpg",
 }, 
 {
     id: 10,
     nev: 'NEM ELADÓ!',
-    ar: 15000,
+    ar: 0,
     kep: "eger.jpg",
 }, 
 
